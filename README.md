@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arslansmajevic
 - 👀 I’m interested in Software develeopment and Web develeopment
 - 🌱 I’m currently learning Java, JavaScript, p5.js
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on web develeopment projects
 - 📫 How to reach me -> via GitHub, idk yet.
 
 <!---
