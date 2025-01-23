@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on creating a full stack application using Angular and Spring.<br>👯 I’m looking to collaborate on full stack applications.<br>🌱 I’m currently delving deeper into testing. <br>⚡ Fun fact: mocks and stubs are two different things. 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-smajevic-a6048b273) 
 
